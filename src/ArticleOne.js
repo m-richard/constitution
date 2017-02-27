@@ -5,7 +5,7 @@ import './App.css';
 class ArticleOne extends Component {
   render() {
     return (
-      <div>Article One
+      <div>Article One Section 1
       </div>
     );
   }

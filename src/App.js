@@ -10,7 +10,7 @@ class App extends Component {
         <div className="App-header">
           <h2>The United States Constitution</h2>
         </div>
-        {ArticleOne}
+      
       </div>
     );
   }
